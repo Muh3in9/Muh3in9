@@ -1,12 +1,11 @@
 document.addEventListener("DOMContentLoaded", function() {
-    var modeSwitch = document.getElementById('mode-switch');
-    var container = document.querySelector('.container');
+    var searchBox = document.getElementById('search-box');
   
-    modeSwitch.addEventListener('change', function() {
-      if (modeSwitch.checked) {
-        container.classList.add('dark-mode');
-      } else {
-        container.classList.remove('dark-mode');
-      }
+    searchBox.addEventListener('click', function() {
+      searchBox.classList.add('animated-search');
+      setTimeout(function() {
+        searchBox.classList.remove('animated-search');
+      }, 500);
     });
   });
+  
