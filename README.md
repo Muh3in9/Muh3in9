@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Muh3in9
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on minimizing AI improvement 
+- 📫 How to reach me muhsina.nuhu@outlook.com
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: Happy and always coding
 
 <!---
